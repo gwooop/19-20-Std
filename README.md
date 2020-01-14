@@ -1,3 +1,3 @@
 # 19-20-Std
 
-Django Test
+Python Study(Data-analysis)
